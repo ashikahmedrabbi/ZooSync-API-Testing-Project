@@ -1,4 +1,5 @@
 # 🧪 ZooSync API Testing Project
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman)  ![Newman](https://img.shields.io/badge/Newman-CLI%20Runner-brightgreen)  ![GitHub](https://img.shields.io/badge/GitHub-README-blue?logo=github) 
 
 This project contains a complete **API testing suite** built using **Postman** and executed using **Newman**. The collection tests the full CRUD functionality of a Pet Store API, including **User**, **Pet**, and **Order** endpoints.
 
